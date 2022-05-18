@@ -1,0 +1,1 @@
+This is just a dummy text file to check how we can connect repositories with Jira
